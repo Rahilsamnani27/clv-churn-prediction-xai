@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+notebooks/
+screenshots/
+data/olist_customers_dataset.csv
+data/olist_geolocation_dataset.csv
+data/olist_order_items_dataset.csv
+data/olist_order_payments_dataset.csv
+data/olist_order_reviews_dataset.csv
+data/olist_orders_dataset.csv
+data/olist_products_dataset.csv
+data/olist_sellers_dataset.csv
+data/product_category_name_translation.csv

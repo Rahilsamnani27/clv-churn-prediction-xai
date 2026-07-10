@@ -1,0 +1,13 @@
+﻿pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
+fastapi
+uvicorn
+streamlit
+requests
+groq
+python-dotenv
+joblib
